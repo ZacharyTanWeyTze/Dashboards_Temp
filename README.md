@@ -1,4 +1,7 @@
 # Dashboards_Temp
 
 Traffic Light DB (Power BI)
-Superstore database, KPI light indicator
+
+KPI light indicator
+
+Dataset Used: Sample Superstore 
